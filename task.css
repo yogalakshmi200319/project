@@ -1,0 +1,44 @@
+
+img{
+    border-radius: 8px;
+    
+}
+
+
+table,th,td{
+    border: 1px solid black;
+
+}
+table{
+    border-collapse: collapse;
+}
+.head{
+    background-color: palevioletred;
+}
+.title{
+    background-color: plum; width: 520px;
+    margin: 0%;
+    font-size: 15x;
+}
+a:visitedlink{
+    color: blue;
+    background-color:transparent;
+    text-decoration: dotted;
+
+}
+
+a:visited{
+    color:green;
+    background-color: transparent;
+    text-decoration: none;
+}
+/*selected link */
+a:active{
+    color: yellow;
+}
+
+    :hover p{
+        width: 200px;
+        height: auto;
+        color: blueviolet;
+    }
